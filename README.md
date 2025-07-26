@@ -3,4 +3,4 @@ This is a example git repo
 
 Hey look, I changed this file.
 
-I'll fix a typo here in the readme.
+I'll fix a lot of stuff here in the readme.
